@@ -1,6 +1,9 @@
 # Tridactyl changelog
 
-## Release 1.13.0 / {{ file.mtime }}
+## Release 1.13.0 / 
+<script type="text/javascript">
+    document.write("<strong>" + (new Date()).toString() + "</strong>");
+</script>
 
 - `editor` now includes the hostname of the site you are on in the temporary filename
     - this is mostly so that you can set up syntax highlighting in Vim, e.g,
