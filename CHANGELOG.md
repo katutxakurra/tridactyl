@@ -1,6 +1,6 @@
 # Tridactyl changelog
 
-## Release 1.13.0 / Unreleased
+## Release 1.13.0 / display date(c(current_date),"DMY")
 
 - `editor` now includes the hostname of the site you are on in the temporary filename
     - this is mostly so that you can set up syntax highlighting in Vim, e.g,
